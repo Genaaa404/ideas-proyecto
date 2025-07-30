@@ -1,3 +1,7 @@
 1.Desarrollar un videojuego y poder publicarlo en steam 
 2.Desarrollar una aplicacion web para ayudar a la gente en su vida cotidiana 
 3.Poder desarrollar una web para el colegio
+4. Desarrollar un proyecto con todo el curso para ayudar a otros cursos
+5. Hacer un taller para ayudar a los chicos del ciclo basico con programacion
+4. Desarrollar un proyecto con todo el curso para ayudar a otros cursos
+5. Hacer un taller para ayudar a los chicos del ciclo basico con programacion
